@@ -1,0 +1,1 @@
+from grobid2json.main import convert_xml_to_json
